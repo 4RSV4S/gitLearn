@@ -5,3 +5,5 @@
   function sayBye() {
     alert('Goodbye from Git!')
   }
+
+  // ...more changes here too...
