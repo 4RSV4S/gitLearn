@@ -3,7 +3,7 @@
   }
 
   function work() {
-    alert('Work, work!');
+    alert('Work, work harder!');
   }
 
   function sayBye() {
