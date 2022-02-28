@@ -2,12 +2,10 @@
     alert('Hello from Git!');
   }
 
-  function work() {
-    alert('Work, work harder!');
+  function work(t) {
+    alert('Work, work ${t} time harder!');
   }
 
   function sayBye() {
     alert('Goodbye from Git!');
   }
-
-  // ...more changes here too...
