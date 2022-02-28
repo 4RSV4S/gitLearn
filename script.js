@@ -2,8 +2,12 @@
     alert('Hello from Git!');
   }
 
+  function work() {
+    alert('Work, work!');
+  }
+
   function sayBye() {
-    alert('Goodbye from Git!')
+    alert('Goodbye from Git!');
   }
 
   // ...more changes here too...
